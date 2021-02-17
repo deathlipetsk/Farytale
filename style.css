@@ -1,0 +1,20 @@
+.row {
+	height: 60px;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+input {
+	width: 100%;
+	display: block;
+}
+
+button {
+	height: 30px;
+	width: 120px;
+	background: lightgreen;
+}
+
+.create-button {
+	margin-right: 5px;
+}
